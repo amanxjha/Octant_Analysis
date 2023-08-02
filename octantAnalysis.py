@@ -4,7 +4,7 @@ start_time = datetime.now()
 import streamlit as st
 import os
 os.system("cls") # clearing screen
-os.chdir(r'C:\Users\Aman Jha\Documents\GitHub\2001EE22_2022\proj2') # making the parent directory as current directory
+os.chdir(r'C:\Users\Aman Jha\Documents\GitHub\octantAnalysis') # making the parent directory as current directory
 
 def proj_octant_gui():
 	
